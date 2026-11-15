@@ -1,0 +1,136 @@
+﻿Total revenue;
+Sum of total_amount;
+698812,33;
+;
+;
+Row Labels;Sum of total_amount
+(blank);
+Packaged Chocolate;4407,64
+Flavours;8408,8
+Loose Tea;11213,6
+Branded;13607
+Coffee beans;40085,25
+Drinking Chocolate;72416
+Bakery;82315,64
+Tea;196405,95
+Coffee;269952,45
+Grand Total;698812,33
+;
+;
+;
+Row Labels;Sum of total_amount
+Sustainably Grown Organic Lg;21151,75
+Dark chocolate Lg;21006
+Latte Rg;19112,25
+Cappuccino Lg;17641,75
+Morning Sunrise Chai Lg;17384
+Latte;17257,5
+Jamaican Coffee River Lg;16481,25
+Sustainably Grown Organic Rg;16233,75
+Cappuccino;15997,5
+Brazilian Lg;15109,5
+Ethiopia Lg;14794,5
+Dark chocolate Rg;14024,5
+Spicy Eye Opener Chai Lg;13652,4
+Ethiopia Rg;13179
+Brazilian Rg;13155
+Peppermint Lg;13050
+English Breakfast Lg;12927
+Earl Grey Lg;12735
+Serenity Green Tea Lg;12660
+Columbian Medium Roast Lg;12585
+Traditional Blend Chai Lg;12522
+Espresso shot;12495
+Jamaican Coffee River Rg;12455,8
+Lemon Grass Lg;12267
+Our Old Time Diner Blend Lg;11991
+Earl Grey Rg;11770
+Civet Cat;11700
+Chocolate Croissant;11625,98
+Morning Sunrise Chai Rg;11607,5
+Peppermint Rg;11410
+Columbian Medium Roast Rg;11367,5
+Traditional Blend Chai Rg;11280
+Serenity Green Tea Rg;11192,5
+Our Old Time Diner Blend Rg;11025
+Lemon Grass Rg;10812,5
+Spicy Eye Opener Chai Rg;10636,05
+English Breakfast Rg;10500
+Jamaican Coffee River Sm;9844,1
+Ethiopia Sm;9752,6
+Brazilian Sm;9482
+Our Old Time Diner Blend Sm;8968
+Scottish Cream Scone ;8949,45
+Ouro Brasileiro shot;8902,2
+Columbian Medium Roast Sm;8356
+Ginger Scone;8011,61
+Jumbo Savory Scone;7626,62
+Almond Croissant;7168,13
+Croissant;6861,88
+Cranberry Scone;6818,44
+Chocolate Chip Biscotti;6748,96
+Hazelnut Biscotti;6608,01
+Ginger Biscotti;6436,56
+I Need My Bean! T-shirt;6163
+Oatmeal Scone;5460
+Organic Decaf Blend;4657,5
+Ethiopia;4578
+I Need My Bean! Latte cup;4509
+Brazilian - Organic;3852
+Our Old Time Diner Blend;3294
+Primo Espresso Roast;3067,5
+I Need My Bean! Diner mug;2935
+Jamacian Coffee River;2883,5
+Espresso Roast;2492,75
+Sugar Free Vanilla syrup;2324
+Columbian Medium Roast;2220
+Chocolate syrup;2126,4
+Carmel syrup;2060,8
+Chili Mayan;1972,84
+Hazelnut syrup;1897,6
+Sustainably Grown Organic;1679,6
+Morning Sunrise Chai;1596
+Serenity Green Tea;1470,75
+English Breakfast;1440,95
+Peppermint;1369,35
+Traditional Blend Chai;1369,35
+Lemon Grass;1360,4
+Guatemalan Sustainably Grown;1340
+Spicy Eye Opener Chai;1335,9
+Earl Grey;1270,9
+Dark chocolate;755,2
+(blank);
+Grand Total;698812,33
+;
+Row Labels;Sum of total_amount
+afternoon;204720,83
+evening;105802,83
+morning;388288,67
+Grand Total;698812,33
+;
+;
+;
+;
+;
+;
+;
+Row Labels;Sum of transaction_qty
+afternoon;63840
+evening;33001
+morning;117629
+Grand Total;214470
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Row Labels;Sum of transaction_qty
+afternoon;63840
+evening;33001
+morning;117629
+Grand Total;214470
