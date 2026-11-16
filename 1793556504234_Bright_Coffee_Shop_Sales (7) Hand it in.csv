@@ -92,15 +92,15 @@ Sustainably Grown Organic;1679,6
 Morning Sunrise Chai;1596
 Serenity Green Tea;1470,75
 English Breakfast;1440,95
-Peppermint;1369,35
 Traditional Blend Chai;1369,35
+Peppermint;1369,35
 Lemon Grass;1360,4
 Guatemalan Sustainably Grown;1340
 Spicy Eye Opener Chai;1335,9
 Earl Grey;1270,9
 Dark chocolate;755,2
-(blank);
 Grand Total;698812,33
+;
 ;
 Row Labels;Sum of total_amount
 afternoon;204720,83
@@ -129,8 +129,225 @@ Grand Total;214470
 ;
 ;
 ;
-Row Labels;Sum of transaction_qty
-afternoon;63840
-evening;33001
-morning;117629
-Grand Total;214470
+Row Labels;Sum of total_amount
+Jan;81677,74
+Feb;76145,19
+Mar;98834,68
+Apr;118941,08
+May;156727,76
+Jun;166485,88
+Grand Total;698812,33
+;
+;
+;
+;
+;
+;
+Row Labels;Count of transaction_qty
+01-Jan;550
+02-Jan;566
+03-Jan;582
+04-Jan;497
+05-Jan;547
+06-Jan;509
+07-Jan;562
+08-Jan;562
+09-Jan;551
+10-Jan;602
+11-Jan;561
+12-Jan;534
+13-Jan;625
+14-Jan;577
+15-Jan;663
+16-Jan;627
+17-Jan;532
+18-Jan;588
+19-Jan;616
+20-Jan;578
+21-Jan;597
+22-Jan;491
+23-Jan;589
+24-Jan;588
+25-Jan;583
+26-Jan;586
+27-Jan;579
+28-Jan;470
+29-Jan;459
+30-Jan;481
+31-Jan;462
+01-Feb;546
+02-Feb;569
+03-Feb;586
+04-Feb;584
+05-Feb;533
+06-Feb;489
+07-Feb;546
+08-Feb;599
+09-Feb;562
+10-Feb;635
+11-Feb;567
+12-Feb;607
+13-Feb;593
+14-Feb;587
+15-Feb;624
+16-Feb;639
+17-Feb;534
+18-Feb;594
+19-Feb;692
+20-Feb;628
+21-Feb;555
+22-Feb;581
+23-Feb;555
+24-Feb;603
+25-Feb;576
+26-Feb;601
+27-Feb;663
+28-Feb;511
+01-Mar;661
+02-Mar;673
+03-Mar;710
+04-Mar;624
+05-Mar;675
+06-Mar;587
+07-Mar;629
+08-Mar;742
+09-Mar;722
+10-Mar;750
+11-Mar;689
+12-Mar;667
+13-Mar;730
+14-Mar;691
+15-Mar;721
+16-Mar;758
+17-Mar;693
+18-Mar;731
+19-Mar;725
+20-Mar;735
+21-Mar;650
+22-Mar;669
+23-Mar;694
+24-Mar;718
+25-Mar;688
+26-Mar;671
+27-Mar;764
+28-Mar;626
+29-Mar;582
+30-Mar;639
+31-Mar;615
+01-Apr;830
+02-Apr;802
+03-Apr;814
+04-Apr;753
+05-Apr;814
+06-Apr;739
+07-Apr;802
+08-Apr;933
+09-Apr;848
+10-Apr;913
+11-Apr;864
+12-Apr;867
+13-Apr;870
+14-Apr;821
+15-Apr;881
+16-Apr;989
+17-Apr;795
+18-Apr;910
+19-Apr;921
+20-Apr;854
+21-Apr;809
+22-Apr;798
+23-Apr;855
+24-Apr;893
+25-Apr;863
+26-Apr;915
+27-Apr;954
+28-Apr;769
+29-Apr;674
+30-Apr;785
+01-May;1050
+02-May;1040
+03-May;1076
+04-May;1029
+05-May;1062
+06-May;955
+07-May;1012
+08-May;1186
+09-May;1094
+10-May;1163
+11-May;1067
+12-May;1040
+13-May;1148
+14-May;1071
+15-May;1156
+16-May;1219
+17-May;1014
+18-May;1192
+19-May;1214
+20-May;1166
+21-May;1053
+22-May;1117
+23-May;1075
+24-May;1104
+25-May;1043
+26-May;1089
+27-May;1183
+28-May;999
+29-May;906
+30-May;1022
+31-May;982
+01-Jun;1150
+02-Jun;1143
+03-Jun;1160
+04-Jun;1114
+05-Jun;1110
+06-Jun;1041
+07-Jun;1083
+08-Jun;1269
+09-Jun;1224
+10-Jun;1210
+11-Jun;1208
+12-Jun;1162
+13-Jun;1281
+14-Jun;1194
+15-Jun;1237
+16-Jun;1331
+17-Jun;1099
+18-Jun;1290
+19-Jun;1343
+20-Jun;1202
+21-Jun;1153
+22-Jun;1147
+23-Jun;1167
+24-Jun;1214
+25-Jun;1174
+26-Jun;1195
+27-Jun;1277
+28-Jun;1070
+29-Jun;1009
+30-Jun;1095
+Grand Total;149116
+;
+;
+Row Labels;Sum of total_amount
+Astoria;232243,91
+Hell's Kitchen;236511,17
+Lower Manhattan;230057,25
+Grand Total;698812,33
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Row Labels;Count of transaction_qty
+Astoria;50599
+Hell's Kitchen;50735
+Lower Manhattan;47782
+Grand Total;149116
